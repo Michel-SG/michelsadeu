@@ -8,6 +8,7 @@ import { AccueilComponent } from './components/accueil/accueil.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { ParcoursComponent } from './components/parcours/parcours.component';
 import { ProjetsComponent } from './components/projets/projets.component';
+import { PrivacyComponent } from './components/privacy/privacy.component';
 import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
@@ -18,6 +19,7 @@ import { FooterComponent } from './components/footer/footer.component';
     ContactComponent,
     ParcoursComponent,
     ProjetsComponent,
+    PrivacyComponent,
     FooterComponent
   ],
   imports: [
